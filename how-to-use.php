@@ -1,5 +1,9 @@
 <?php
 
+// Author: Abbas Mousaei
+// Email: Abbasmousaei.7studio@gmail.com
+// Company: https://www.7studio.ir
+
 include './db-class.php';
 // Create a new class of db-class
 $dbcon = new DB();
